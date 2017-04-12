@@ -1,3 +1,10 @@
-# LearnGithub1
-学习如何使用github
-我正在学习github
+# 这是我的LearnGithub1
+
+## 制作过程
+
+1、创建一个repository
+2、创建一个index.html
+
+## 如何预览readme.md
+
+
